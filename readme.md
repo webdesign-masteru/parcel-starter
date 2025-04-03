@@ -2,7 +2,7 @@
 <p>Lightweight Parcel Starter</p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/agragregra/ps/master/src/img/preview.jpg" alt="Parcel Starter">
+  <img src="https://raw.githubusercontent.com/webdesign-masteru/parcel-starter/master/src/img/preview.jpg" alt="Parcel Starter">
 </p>
 
 <p><strong>Parcel Starter</strong> - lightweight startup environment with <strong>Parcel</strong>, <strong>Preprocessors (Sass, Scss)</strong>, <strong>HTML imports</strong> (posthtml-include), <strong>npm run build</strong>, <strong>imagemin + webp</strong>.</p>
@@ -11,10 +11,10 @@
 
 <p>Clone into the current folder with remove all unnecessary (one command):</p>
 
-<pre>git clone https://github.com/agragregra/ps .; rm -rf trunk .gitignore readme.md .git</pre>
+<pre>git clone https://github.com/webdesign-masteru/parcel-starter .; rm -rf trunk .gitignore readme.md .git</pre>
 
 <ol>
-  <li>Clone or <a href="https://github.com/agragregra/ps/archive/master.zip">Download</a> <strong>Parcel Starter</strong> from GitHub</li>
+  <li>Clone or <a href="https://github.com/webdesign-masteru/parcel-starter/archive/master.zip">Download</a> <strong>Parcel Starter</strong> from GitHub</li>
   <li>Install Node Modules: <strong>npm i</strong></li>
   <li>Run: <strong>npm start</strong></li>
   <li>Build: <strong>npm run build</strong></li>
